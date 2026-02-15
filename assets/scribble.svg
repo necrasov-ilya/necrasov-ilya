@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" fill="none">
+  <defs>
+    <style>
+      .ink { stroke: #C92455; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+      .ghost { stroke: #FFFFFF; stroke-opacity: 0.35; stroke-width: 2.5; stroke-linecap: round; fill: none; }
+    </style>
+  </defs>
+
+  <path class="ghost" d="M22 123 C94 89, 142 156, 210 121 C286 82, 336 149, 402 112 C482 68, 530 148, 611 109 C690 71, 742 149, 816 115 C892 82, 952 143, 1026 116 C1090 93, 1132 129, 1178 112" />
+  <path class="ink" d="M16 98 C70 63, 134 136, 202 96 C280 50, 350 145, 430 97 C510 46, 574 145, 655 97 C728 54, 792 140, 876 95 C950 54, 1012 126, 1088 91 C1132 72, 1166 86, 1188 80" />
+  <path class="ink" d="M36 128 C88 154, 136 80, 198 116 C255 151, 312 73, 376 113 C430 146, 486 71, 554 109 C620 149, 676 71, 748 111 C818 149, 878 73, 954 110 C1004 135, 1068 77, 1142 103" />
+
+  <path class="ink" d="M86 34 l34 22 l-30 19 l38 14" />
+  <path class="ghost" d="M184 41 l28 17 l-24 18 l30 12" />
+
+  <circle cx="1070" cy="46" r="14" class="ink" />
+  <circle cx="1112" cy="42" r="7" class="ghost" />
+  <circle cx="1144" cy="53" r="4" fill="#C92455" />
+
+  <path class="ink" d="M998 134 q18 -15 40 0 q22 14 42 -3" />
+</svg>
