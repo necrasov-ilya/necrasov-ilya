@@ -37,7 +37,6 @@
 - Telegram: [@NKSV_ILYA](https://t.me/NKSV_ILYA)
 - GitHub: [github.com/necrasov-ilya](https://github.com/necrasov-ilya)
 - Portfolio: [necrasov-ilya.github.io](https://necrasov-ilya.github.io)
-- Activity: [Contributions](https://github.com/users/necrasov-ilya/contributions)
 
 <p align="center">
   <img src="./assets/scribble.svg" alt="decorative scribble" width="100%" />
