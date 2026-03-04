@@ -17,10 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=necrasov-ilya&style=for-the-badge&color=C92455&label=profile+views" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="./assets/profile-panel.svg" alt="NKSV_ILYA profile panel" width="100%" />
-</p>
-
 ## Activity
 
 <p align="center">
