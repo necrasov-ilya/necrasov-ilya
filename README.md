@@ -20,11 +20,6 @@
 ## Activity
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=necrasov-ilya&theme=github_dark" alt="GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=necrasov-ilya&theme=github_dark" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=necrasov-ilya&bg_color=0A0A0A&color=FFFFFF&line=C92455&point=C92455&area=true&area_color=C92455&hide_border=false&border_color=C92455" alt="activity graph" />
 </p>
 
